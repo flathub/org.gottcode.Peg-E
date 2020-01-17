@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Peg-E",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.12",
+	"runtime-version": "5.14",
 	"sdk": "org.kde.Sdk",
 	"command": "peg-e",
 	"rename-icon": "peg-e",
