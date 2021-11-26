@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Peg-E",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "peg-e",
 	"rename-icon": "peg-e",
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"name": "peg-e",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
