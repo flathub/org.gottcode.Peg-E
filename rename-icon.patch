@@ -1,0 +1,16 @@
+diff --git a/icons/peg-e.appdata.xml b/icons/peg-e.appdata.xml
+index eb79c81..8681f87 100644
+--- a/icons/peg-e.appdata.xml
++++ b/icons/peg-e.appdata.xml
+@@ -81,7 +81,7 @@
+     <binary>peg-e</binary>
+   </provides>
+   <launchable type="desktop-id">peg-e.desktop</launchable>
+-  <icon type="stock">peg-e</icon>
++  <icon type="stock">org.gottcode.Peg-E</icon>
+ 
+   <categories>
+     <category>Game</category>
+-- 
+2.44.0
+
